@@ -11,6 +11,7 @@ in VMD program!
 Running the program without any parameters gives a short usage.
 
 The following produces some more info
+
 qmminpdb.py --help 
 
 
