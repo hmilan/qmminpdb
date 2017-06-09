@@ -7,7 +7,7 @@ file by default but one can specify xyz mainly for more accuracy.
 For QM minimization file it makes a file which is ready for animation
 in VMD program!
 
-Running the program without any parameters gives a short usage
+Running the program without any parameters gives a short usage;
 --help gives some more info
 
 
