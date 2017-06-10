@@ -1,6 +1,6 @@
 * Write about 
 
-- similar programs
+- similar programs (test them...)
 
 a) molden
 b) openbabel
