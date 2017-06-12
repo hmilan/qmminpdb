@@ -1,6 +1,6 @@
 * Write about 
 
-- similar programs (test them...)
+- similar programs
 
 a) molden works & shows the history of ab initio calculations but at
    some point it didn't work for me and I started this little script
@@ -25,7 +25,7 @@ c) se below for special features
 
 a) support for QM/MM output files
    this scripts supports the gamess output file produced by
-   CHARMM/GAMESS interface (http://charmm.org)
-   molden only shows the first structure and not all of them that are
+   CHARMM/GAMESS interface (http://charmm.org).
+   Molden only shows the first structure and not all of them that are
    in the file.
 
