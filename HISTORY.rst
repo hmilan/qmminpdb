@@ -1,6 +1,4 @@
-* Write about 
-
-- similar programs
+* similar programs *
 
 a) molden works & shows the history of ab initio calculations but at
    some point it didn't work for me and I started this little script
