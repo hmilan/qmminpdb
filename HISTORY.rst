@@ -25,7 +25,7 @@ c) se below for special features
 
 a) support for QM/MM output files
    this scripts supports the gamess output file produced by
-   CHARMM/GAMESS interface (http://charmm.org).
+   CHARMM/GAMESS interface (http://www.charmm.org).
    Molden only shows the first structure and not all of them that are
    in the file.
 
