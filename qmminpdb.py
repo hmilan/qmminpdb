@@ -155,7 +155,7 @@ for line in inpf:
                 y[i]=float(line.split()[4-loffset])*au
                 z[i]=float(line.split()[5-loffset])*au
 
-    if (line.find('Done') > 0) or (line.find('FINAL') > 0) :
+    if (line.find(' Done: ') > 0) or (line.find('FINAL') > 0) :
         e=float(line.split()[4])
         if pdb: 
             outf.write('REMARK ENERGY={0:20.10f} FRAME={1:d}\n'.format(e,frame))
